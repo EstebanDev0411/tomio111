@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Ace Dev's profile</h1>
-<h3 align="center">A Principal Full Stack Engineer</h3>
+<h1 align="center">Welcome to My Profile</h1>
+<h3 align="center">Growing Full Stack Engineer</h3>
 
 ## 🕵️‍♂️ About Me
 - 😎 Interested in contributing expertise in web and blockchain development
